@@ -13,3 +13,7 @@ Threads URL: https://www.threads.net/@pythonpotatoofficial
 * [git](./git) - version control system git
 
 Feel free to use the media materials from this repository for your projects and courses, but don't forget to mention the source :)
+
+## Assets
+
+This project uses assets from [svgrepo](https://www.svgrepo.com/) licensed under the [CC0 License](https://www.svgrepo.com/page/licensing/#CC0).
